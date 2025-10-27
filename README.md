@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://github.com/anosidium/Oliphaunt-Feedback-And-Support/assets/39738481/e88c2cc7-3f8a-48db-a7d3-8f2219e908bd" alt="Oliphaunt" style="width: 170px; height: 170px">
   <h1>Oliphaunt</h1>
-  <p>A native macOS Client for <a href="https://joinmastodon.org">Mastodon</a></p>
+  <p>A Mac app for <a href="https://joinmastodon.org">Mastodon</a></p>
   <p>Developed by Ammad</p>
   <p>Made with ♥ in London, England, UK</p>
 </div>
 
 # Synopsis
-Oliphaunt is a [Mastodon](https://joinmastodon.org) client for macOS and is developed by a British developer.
+Oliphaunt is a third-party native macOS client for [Mastodon](https://joinmastodon.org), a federated social network that operates on the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol. The app is developed by a British developer.
 
 # TestFlight
 Oliphaunt is available on [TestFlight](https://testflight.apple.com/join/Epq1P3Cw).
