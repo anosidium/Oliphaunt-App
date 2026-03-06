@@ -6,23 +6,47 @@
   <p>Made with ♥ in London, England, UK</p>
 </div>
 
-# Synopsis
-Oliphaunt is a third-party native macOS client for [Mastodon](https://joinmastodon.org), a federated social network that operates on the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol. The app is developed by a British developer.
+# Download
 
-# TestFlight
-Oliphaunt is available on [TestFlight](https://testflight.apple.com/join/Epq1P3Cw).
+[![Image](https://github.com/user-attachments/assets/3996e184-c61c-4e6a-bf05-d213ba66711e)](https://apps.apple.com/app/id6745527185)
+
+Requires macOS 14 Sonoma or later.
+
+# Synopsis
+
+Oliphaunt is a native macOS client for [Mastodon](https://joinmastodon.org), the federated social network built on the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol.
+
+# Design Philosophy
+
+Oliphaunt is designed to be a well-behaved macOS application.
+
+It follows the platform’s design language and adopts familiar macOS conventions so that the interface feels immediately intuitive to Mac users.
+
+Rather than being an up-scaled iOS port or a cross-platform application, Oliphaunt is built specifically for macOS to integrate naturally with system UI controls and behaviour.
+
+# Features
+
+- Native macOS interface
+- Browse remote instances
+- Support for multiple Mastodon accounts
+- Rich composer with quotes, username auto-complete, visibility controls and more
+- Restore previous session
+- Persistent timeline caching
+- And more
 
 # Screenshots
-<img width="1728" alt="Screenshot of Oliphaunt running on macOS Seqouia" src="https://github.com/user-attachments/assets/57b8ea30-d4c9-4b16-91ab-7d96a4bc71c0" />
 
-<img width="1680" alt="A screenshot of Oliphaunt in light appearance" src="https://github.com/anosidium/Oliphaunt-Feedback-And-Support/assets/39738481/d2e60faf-21c5-4c95-8b82-711b2fb43684">
+<img width="5120" height="3200" alt="Oliphaunt Screenshot (Light)" src="https://github.com/user-attachments/assets/db55b1a1-ba55-4869-8e20-6f28cb4d6a9d" />
 
-<img width="1680" alt="A screenshot of Oliphaunt in dark appearance" src="https://github.com/anosidium/Oliphaunt-Feedback-And-Support/assets/39738481/24a82273-4bbd-4f0b-93de-bf899ac74d96">
+<img width="5120" height="3200" alt="Oliphaunt Screenshot (Dark)" src="https://github.com/user-attachments/assets/afbf1a73-58e0-4c70-9041-64c6449b5cf3" />
 
-# Fact Sheet
-- Platform: From macOS 14 Sonoma up to macOS 15 Sequoia
-- Framework: AppKit, SwiftUI
-- Language: Swift
+# Technical Details
+
+| Specification | Details |
+|:----|:---|
+| Platform | macOS Sonoma 14 or later |
+| Frameworks | AppKit (Cocoa), SwiftUI |
+| Language | Swift |
 
 # Support
 * Found a bug?
