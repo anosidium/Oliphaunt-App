@@ -28,7 +28,7 @@ This data is not transmitted to the developer.
 
 ### Analytics
 
-Oliphaunt uses [TelemetryDeck](https://telemetrydeck.com) to collect anonymised, privacy-preserving analytics. TelemetryDeck gathers high-level signals that help assess app's performance and general usage patterns, such as:
+Oliphaunt uses [TelemetryDeck](https://telemetrydeck.com) to collect anonymised, privacy-preserving analytics. TelemetryDeck gathers high-level signals that help assess the app’s performance and general usage patterns, such as:
 
 - feature usage
 - app version
@@ -43,6 +43,8 @@ Further details are available in the TelemetryDeck's [privacy policy](https://te
 ### Crash Reporting
 
 Oliphaunt uses [Sentry](https://sentry.io/) to collect crash reports. These reports include technical information about the state of the app at the time of a crash (such as stack traces and OS version) in order to diagnose and resolve faults.
+
+Crash report data is stored within the European Union. Further information about Sentry’s data storage locations is available in the [Sentry documentation](https://docs.sentry.io/organization/data-storage-location/).
 
 Further details are available in the Sentry’s [privacy policy](https://sentry.io/privacy/).
 
@@ -66,4 +68,4 @@ The latest version will always be available in the repository from which this do
 
 ### Contact
 
-If you have questions about this Privacy Policy, please open an issue in the repository.
+If you have questions about this Privacy Policy, please open an [issue](https://github.com/anosidium/Oliphaunt-App/issues/new/choose) in the repository.
